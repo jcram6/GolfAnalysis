@@ -1,2 +1,2 @@
-# GolfScoreDrivers
-Analysis of the most important drivers of PGA/LPGA tour golfer's scores.
+# GolfAnalysis
+This repository contains the data gethering code, data, and analysis of the old golf proverb "you drive for show and you putt for dough".
